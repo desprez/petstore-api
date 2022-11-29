@@ -4,7 +4,7 @@ public class ApiException extends Exception {
 
     private static final long serialVersionUID = 6189532417950183160L;
 
-    private final int code;
+    protected final int code;
 
     public ApiException(final int code, final String msg) {
         super(msg);

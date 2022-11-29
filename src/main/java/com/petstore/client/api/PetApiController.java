@@ -20,8 +20,6 @@ import com.petstore.client.model.Pet;
 
 import io.swagger.annotations.ApiParam;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2022-11-26T15:18:15.327+01:00")
-
 @Controller
 public class PetApiController implements PetApi {
 

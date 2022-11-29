@@ -4,13 +4,11 @@ import java.util.Objects;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
  * Category
  */
-@ApiModel()
 public class Category {
 
     @JsonProperty("id")
