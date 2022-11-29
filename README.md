@@ -1,3 +1,5 @@
+# This is an old version of the swagger petstore-api used to tests automatic Open API 3  (OAS3) migration
+
 # Swagger generated server
 
 Spring Boot Server 
@@ -16,3 +18,4 @@ You can view the api documentation in swagger-ui by pointing to
 http://localhost:8080/  
 
 Change default port value in application.properties
+
